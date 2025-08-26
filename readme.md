@@ -19,10 +19,11 @@ An interactive **Machine Learning + Streamlit** web application that predicts we
 - **Tools & Platforms:** Jupyter Notebook, VS Code, Git/GitHub  
 
 ## 📷 Screenshot  
-![App Screenshot](wp.png) 
+![weather_main Screenshot](wp.png) 
 
 ## ⚙️ Installation & Usage  
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/weather-prediction-system.git
    cd weather-prediction-system
+
